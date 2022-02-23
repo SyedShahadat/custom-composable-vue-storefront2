@@ -10,3 +10,4 @@ const enhanceProduct = (productResponse: Array<any>) => {
   };
   
   export default enhanceProduct;
+  
