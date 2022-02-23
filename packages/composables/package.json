@@ -16,7 +16,7 @@
     "update:update": "ncu -u"
   },
   "dependencies": {
-    "@vue-storefront/weldgalaxy-api": "0.0.1",
+   
     "@vue-storefront/core": "~2.5.4"
   },
   "devDependencies": {
